@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhotoSearch</string>
+    <string name="api_key">6bf318919bbbc455f3573d18798a58e3</string>
+    <string name="action_search">Search</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_open_in_browser">Open in browser</string>
+    <string name="action_open_photo">Open photo in…</string>
+</resources>
